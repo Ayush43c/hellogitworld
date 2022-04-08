@@ -1,4 +1,8 @@
 jf
 g
+<<<<<<< HEAD
 ryryryrysdfdsf
 jfdsfbsjfb
+=======
+ryryryryfsfsfsf
+>>>>>>> abc
